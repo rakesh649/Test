@@ -1,0 +1,59 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/rakesh/Documents/Gdb/geeks_30/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+STACK_LIMIT	linked_list.c	/^#define STACK_LIMIT /;"	d	file:
+add	linked_list.c	/^static node *add(node *ptr) {$/;"	f	typeref:typename:node *	file:
+add	start.c	/^st *add(int n) {$/;"	f	typeref:typename:st *
+anagram	bit_operations.c	/^void anagram() {$/;"	f	typeref:typename:void
+col	start.c	/^#define col /;"	d	file:
+dat	linked_list.c	/^typedef struct dat {$/;"	s	file:
+display	linked_list.c	/^static void display(node *ptr) {$/;"	f	typeref:typename:void	file:
+display	start.c	/^void display(st *ptr) {$/;"	f	typeref:typename:void
+do_modify	linked_list.c	/^node *do_modify(node *prev,node *temp,node *next,node *ptr) {$/;"	f	typeref:typename:node *
+find_loop	linked_list.c	/^node *find_loop(node *ptr) {$/;"	f	typeref:typename:node *
+find_loop_ll	linked_list.c	/^void find_loop_ll() {$/;"	f	typeref:typename:void
+find_repeating_ele	start.c	/^void find_repeating_ele() {$/;"	f	typeref:typename:void
+getnext	strings.c	/^char* getnext(char *str, const char delim)$/;"	f	typeref:typename:char *
+head	start.c	/^st *head=NULL;$/;"	v	typeref:typename:st *
+insert	linked_list.c	/^node *insert(node *ptr) {$/;"	f	typeref:typename:node *
+link	linked_list.c	/^    struct dat *link;$/;"	m	struct:dat	typeref:struct:dat *	file:
+link	start.c	/^    struct stu *link;$/;"	m	struct:stu	typeref:struct:stu *	file:
+main	main.c	/^int main()$/;"	f	typeref:typename:int
+mv_key_end	linked_list.c	/^node *mv_key_end(node *ptr,int key) {$/;"	f	typeref:typename:node *
+mv_key_end_ll	linked_list.c	/^void mv_key_end_ll() {$/;"	f	typeref:typename:void
+node	linked_list.c	/^}node;$/;"	t	typeref:struct:dat	file:
+nthrow_pascal	start.c	/^void nthrow_pascal() {$/;"	f	typeref:typename:void
+num	linked_list.c	/^    int num;$/;"	m	struct:dat	typeref:typename:int	file:
+num	start.c	/^    int num;$/;"	m	struct:stu	typeref:typename:int	file:
+peek	linked_list.c	/^int peek() {$/;"	f	typeref:typename:int
+pop	linked_list.c	/^void pop() {$/;"	f	typeref:typename:void
+push	linked_list.c	/^void push(int n) {$/;"	f	typeref:typename:void
+remove_arr_dup	start.c	/^void remove_arr_dup() {$/;"	f	typeref:typename:void
+remove_loop	linked_list.c	/^node *remove_loop(node *sptr,node *head,node *fptr) {$/;"	f	typeref:typename:node *
+rev_ll	start.c	/^void rev_ll() {$/;"	f	typeref:typename:void
+reverse	start.c	/^static st *reverse(st *ptr) {$/;"	f	typeref:typename:st *	file:
+reverse_linkedlist_ustack	linked_list.c	/^void reverse_linkedlist_ustack() {$/;"	f	typeref:typename:void
+reverse_rec	start.c	/^void reverse_rec(st *ptr,st *prev) {$/;"	f	typeref:typename:void
+rotate_arr_left	start.c	/^void rotate_arr_left() {$/;"	f	typeref:typename:void
+row	start.c	/^#define row /;"	d	file:
+search	start.c	/^int search(int *arr, int x,int up) {$/;"	f	typeref:typename:int
+search_ele_bst	start.c	/^void search_ele_bst() {$/;"	f	typeref:typename:void
+size	start.c	/^#define size /;"	d	file:
+st	start.c	/^}st;$/;"	t	typeref:struct:stu	file:
+stack	linked_list.c	/^void stack() {$/;"	f	typeref:typename:void
+stu	start.c	/^typedef struct stu {$/;"	s	file:
+sub_array	arrays.c	/^void sub_array() {$/;"	f	typeref:typename:void
+swap_msb_lsb	bit_operations.c	/^void swap_msb_lsb() {$/;"	f	typeref:typename:void
+top	linked_list.c	/^node *top=NULL;$/;"	v	typeref:typename:node *
+transpose_mat	start.c	/^void transpose_mat() {$/;"	f	typeref:typename:void
+u_strcat	start.c	/^void u_strcat() {$/;"	f	typeref:typename:void
+uanagram	bit_operations.c	/^int uanagram(char *str, char *str1) {$/;"	f	typeref:typename:int
+ustrtok	strings.c	/^void ustrtok()$/;"	f	typeref:typename:void

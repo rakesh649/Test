@@ -1,0 +1,50 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/rakesh/Documents/Gdb/qualcom/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+ByteSwap16	bitwise.c	/^#define ByteSwap16(/;"	d	file:
+ByteSwap1_3	bitwise.c	/^#define ByteSwap1_3(/;"	d	file:
+ByteSwap32	bitwise.c	/^#define ByteSwap32(/;"	d	file:
+ByteSwap64	bitwise.c	/^#define ByteSwap64(/;"	d	file:
+C	main.c	/^#define C /;"	d	file:
+R	main.c	/^#define R /;"	d	file:
+add_dll	main.c	/^void add_dll(dll *ptr) {$/;"	f	typeref:typename:void
+add_dll_rmdup_reverse	main.c	/^void add_dll_rmdup_reverse() {$/;"	f	typeref:typename:void
+allocate_2dptr_dyn	main.c	/^void allocate_2dptr_dyn() {$/;"	f	typeref:typename:void
+bit_display	bitwise.c	/^static void bit_display(int n) {$/;"	f	typeref:typename:void	file:
+bit_display	main.c	/^void bit_display(int n) {$/;"	f	typeref:typename:void
+bitwise_operations	bitwise.c	/^void bitwise_operations() {$/;"	f	typeref:typename:void
+check_bit	main.c	/^int check_bit(int n, int *p) {$/;"	f	typeref:typename:int
+check_fordup	main.c	/^void check_fordup(dll *ptr) {$/;"	f	typeref:typename:void
+check_powerof2	main.c	/^void check_powerof2() {$/;"	f	typeref:typename:void
+check_powerof4	main.c	/^void check_powerof4() {$/;"	f	typeref:typename:void
+check_sizeofptrarr	main.c	/^void check_sizeofptrarr() {$/;"	f	typeref:typename:void
+clearbit	bitwise.c	/^void clearbit() {$/;"	f	typeref:typename:void
+col	main.c	/^#define col /;"	d	file:
+display	main.c	/^void display(dll *ptr) {$/;"	f	typeref:typename:void
+dll	main.c	/^}dll;$/;"	t	typeref:struct:dts	file:
+dts	main.c	/^typedef struct dts {$/;"	s	file:
+find_size_withoutsizeof	main.c	/^void find_size_withoutsizeof() {$/;"	f	typeref:typename:void
+head	main.c	/^dll *head=NULL;$/;"	v	typeref:typename:dll *
+insertstr_posn_dyn	main.c	/^void insertstr_posn_dyn() {$/;"	f	typeref:typename:void
+isodd	main.c	/^int isodd(int posn) {$/;"	f	typeref:typename:int
+main	main.c	/^int main()$/;"	f	typeref:typename:int
+next	main.c	/^    struct dts *next;$/;"	m	struct:dts	typeref:struct:dts *	file:
+num	main.c	/^    int num;$/;"	m	struct:dts	typeref:typename:int	file:
+prev	main.c	/^    struct dts *prev;$/;"	m	struct:dts	typeref:struct:dts *	file:
+reverseBits	main.c	/^unsigned int reverseBits(unsigned int n)$/;"	f	typeref:typename:unsigned int
+reverseBits	main.c	/^unsigned long int reverseBits(unsigned long int n)$/;"	f	typeref:typename:unsigned long int
+reverse_bits_num	main.c	/^void  reverse_bits_num() {$/;"	f	typeref:typename:void
+row	main.c	/^#define row /;"	d	file:
+setbit	bitwise.c	/^void setbit() {$/;"	f	typeref:typename:void
+setbit_posn	main.c	/^void setbit_posn() {$/;"	f	typeref:typename:void
+swap_bytes_num	bitwise.c	/^void swap_bytes_num() {$/;"	f	typeref:typename:void
+swap_even_odd_bits	bitwise.c	/^void swap_even_odd_bits() {$/;"	f	typeref:typename:void
+togglebit	bitwise.c	/^void togglebit() {$/;"	f	typeref:typename:void
